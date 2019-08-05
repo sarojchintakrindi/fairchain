@@ -1,4 +1,4 @@
-module github.com/sarojchintakrindi/faircoin
+module github.com/sarojchintakrindi/fairchain
 
 go 1.12
 
