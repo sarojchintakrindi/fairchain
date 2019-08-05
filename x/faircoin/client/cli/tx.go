@@ -6,7 +6,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/client/context"
 	"github.com/cosmos/cosmos-sdk/codec"
-	"https://github.com/sarojchintakrindi/faircoin/tree/master/types"
+	"github.com/sarojchintakrindi/faircoin/tree/master/types"
 	"github.com/cosmos/cosmos-sdk/x/auth/client/utils"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/auth"
@@ -29,7 +29,7 @@ func GetTxCmd(storeKey string, cdc *codec.Codec) *cobra.Command {
 	return faircoinTxCmd
 }
 
-// GetCmdBuyName is the CLI command for sending a BuyName transaction
+
 func GetCmdSendCoins(cdc *codec.Codec) *cobra.Command {
 	return &cobra.Command{
 		Use: "send-coins [account] [amount]",

@@ -6,7 +6,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/client/context"
 	"github.com/cosmos/cosmos-sdk/codec"
-	"https://github.com/sarojchintakrindi/faircoin/tree/master/types"
+	"github.com/sarojchintakrindi/faircoin/tree/master/types"
 	"github.com/spf13/cobra"
 )
 

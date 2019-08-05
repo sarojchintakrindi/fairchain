@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/cosmos/cosmos-sdk/client/context"
-	"https://github.com/sarojchintakrindi/faircoin/tree/master/types"
+	"github.com/sarojchintakrindi/faircoin/tree/master/types"
 
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
