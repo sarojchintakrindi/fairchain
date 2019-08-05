@@ -9,8 +9,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec"
 	"github.com/cosmos/cosmos-sdk/types/module"
 	"github.com/cosmos/cosmos-sdk/x/bank"
-	"github.com/sarojchintakrindi/faircoin/tree/master/client/cli"
-	"github.com/sarojchintakrindi/faircoin/tree/master/client/rest"
+	"github.com/sarojchintakrindi/fairchain/tree/master/x/faircoin/client/rest"
+	"github.com/sarojchintakrindi/fairchain/tree/master/x/faircoin/client/cli"
 
 	"github.com/cosmos/cosmos-sdk/client/context"
 	sdk "github.com/cosmos/cosmos-sdk/types"

@@ -1,7 +1,7 @@
 package faircoin
 
 import (
-	"github.com/sarojchintakrindi/faircoin/tree/master/types"
+	"github.com/sarojchintakrindi/fairchain/tree/master/x/faircoin/types"
 )
 
 const (
